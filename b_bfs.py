@@ -1,5 +1,5 @@
 # a_bfs.py
-## author - nick s.
+## author - nathan s.
 
 
 import a_bst as BST

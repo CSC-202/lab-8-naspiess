@@ -1,5 +1,5 @@
 # bst.py
-## author - nick s.
+## author - nathan s.
 ## .... this was supposed to be your lab 8, but now you need to write less code :)
 
 
